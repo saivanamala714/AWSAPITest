@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "This is to test AWS APIs" );
+        System.out.println( "This is to test AWS API" );
     }
 }
